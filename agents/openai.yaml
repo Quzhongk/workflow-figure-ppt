@@ -1,0 +1,4 @@
+interface:
+  display_name: "Scientific Workflow Figure PPT"
+  short_description: "Build editable one-slide scientific workflow PPTX figures"
+  default_prompt: "Use $workflow-figure-ppt to turn my research workflow into an editable one-slide PowerPoint figure."
